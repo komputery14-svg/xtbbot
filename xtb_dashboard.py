@@ -9,10 +9,10 @@ import os
 # ============================================================
 # KONFIGURACJA
 # ============================================================
-LOGIN = "TWÓJ_LOGIN_XTB"
-HASLO = "TWOJE_HASLO_XTB"
+LOGIN = "komputery.16@gmail.com"
+HASLO = "Wincentto12."
 DEMO = True
-BUDZET_MAX = 1500
+BUDZET_MAX = 1000
 WOLUMEN = 0.01
 STOP_LOSS_PROCENT = 0.5
 TAKE_PROFIT_PROCENT = 1.0
