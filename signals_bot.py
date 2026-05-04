@@ -16,7 +16,7 @@ CHAT_ID = "6655163131"                    # ← Twój Chat ID
 SERVER_STREAM = "wss://ws.xapi.pro/demoStream"
 SERVER_MAIN   = "wss://ws.xapi.pro/demo"
 LOGIN    = "21014080"
-HASLO    = "TWOJE_HASLO_XTB"             # ← WKLEJ HASŁO XTB!
+HASLO    = os.environ.get("XTB_HASLO")            # ← WKLEJ HASŁO XTB!
 
 MIN_SILA_SYGNALU = 70    # Minimalna siła sygnału (0-100)
 PORT = 8080
