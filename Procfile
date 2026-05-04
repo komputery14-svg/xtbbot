@@ -1,1 +1,1 @@
-web: python3 xtb_dashboard.py
+web: python3 signals_bot.py
