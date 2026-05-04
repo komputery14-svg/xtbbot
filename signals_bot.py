@@ -9,7 +9,7 @@ from flask import Flask, jsonify, render_template_string
 # ============================================================
 # KONFIGURACJA
 # ============================================================
-TELEGRAM_TOKEN = "TWÓJ_TOKEN_TELEGRAM"   # ← WKLEJ SWÓJ TOKEN!
+TELEGRAM_TOKEN = "8679402917:AAG3eqNpk1U00VpnQnlVkzYa1qRUWR-_7Y0"   # ← WKLEJ SWÓJ TOKEN!
 CHAT_ID = "6655163131"                    # ← Twój Chat ID
 
 # Serwer XTB (tylko do cen - nie do tradowania!)
